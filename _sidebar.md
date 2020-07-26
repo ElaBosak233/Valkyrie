@@ -17,6 +17,7 @@
   - [3.1 命令](./source/Part03/3.1-命令.md)
   - [3.2 Tab 补全](./source/Part03/3.2-Tab补全.md)
   - [3.3 监听器](./source/Part03/3.3-监听器.md)
+  - [3.4 配置文件](./source/Part03/3.4-配置文件.md)
 
 - **第四部分. 插件进阶**
   - [4.1 多线程与高并发](./source/Part04/4.1-多线程与高并发.md)
@@ -35,5 +36,5 @@
 - **最终部分. 附录**
   - [附录 1 后记](./source/附录/附录1-后记)
 
-<center><a href="https://elabosak.cn" target="_blank"><img src="https://i.loli.net/2020/07/24/jQbkdqxa2JeiMfu.png"></a></center>
+<center><a href="https://elabosak.cn" target="_blank"><img src="https://i.loli.net/2020/07/26/faS83ywjAuI2cGq.png"></a></center>
 <center><a href="https://github.com/ElaBosak233" target="_blank"><img src="https://img.shields.io/badge/Github-%40ElaBosak233-success?style=for-the-badge&logo=Github"></a></center>

@@ -25,10 +25,9 @@
 
 - **第五部分. 数据存储**
   - [5.1 Json](./source/Part05/5.1-Json.md)
-  - [5.2 Yaml](./source/Part05/5.2-Yaml.md)
+  - [5.2 SQLite](./source/Part05/5.2-SQLite.md)
   - [5.3 MySQL](./source/Part05/5.3-MySQL.md)
-  - [5.4 SQLite](./source/Part05/5.4-SQLite.md)
-  - [5.5 Redis](./source/Part05/5.5-Redis.md)
+  - [5.4 Redis](./source/Part05/5.4-Redis.md)
 
 - **第六部分. 第三方依赖**
   - [6.1 Vault](./source/Part06/6.1-Vault.md)

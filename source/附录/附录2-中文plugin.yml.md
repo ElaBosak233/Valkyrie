@@ -1,4 +1,4 @@
-# 附录 2 中文 plugin.yml
+# 附录 2 中文 Plugin.yml
 
 ?> 文档翻译自 **[https://www.spigotmc.org/wiki/plugin-yml/](https://www.spigotmc.org/wiki/plugin-yml/)**
 

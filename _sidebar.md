@@ -25,8 +25,6 @@
   - [4.1 获取主类实例](./source/Part04/4.1-获取主类实例.md)
   - [4.2 多线程与高并发](./source/Part04/4.2-多线程与高并发.md)
   - [4.3 物品栈与物品栏](./source/Part04/4.3-物品栈与物品栏.md)
-  - [4.4 粒子效果](./source/Part04/4.4-粒子效果.md)
-  - [4.5 音频效果](./source/Part04/4.5-音频效果)
 
 - **第五部分. 数据存储**
   - [5.1 Json](./source/Part05/5.1-Json.md)
@@ -39,7 +37,7 @@
 
 - **最终部分. 附录**
   - [附录 1 后记](./source/附录/附录1-后记)
-  - [附录 2 中文 plugin.yml](./source/附录/附录2-中文plugin.yml.md)
+  - [附录 2 中文 Plugin.yml](./source/附录/附录2-中文plugin.yml.md)
   - [附录 3 版本迁移](./source/附录/附录3-版本迁移.md)
 
 <center><a href="https://elabosak.cn" target="_blank"><img src="https://i.loli.net/2020/07/26/faS83ywjAuI2cGq.png"></a></center>

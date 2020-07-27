@@ -25,6 +25,7 @@
   - [4.1 获取主类实例](./source/Part04/4.1-获取主类实例.md)
   - [4.2 多线程与高并发](./source/Part04/4.2-多线程与高并发.md)
   - [4.3 物品栈与物品栏](./source/Part04/4.3-物品栈与物品栏.md)
+  - [4.4 ItemMeta 与其子类](./source/Part04/4.4-ItemMeta与其子类.md)
 
 - **第五部分. 数据存储**
   - [5.1 Json](./source/Part05/5.1-Json.md)

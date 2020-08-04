@@ -26,9 +26,7 @@
   - [4.2 多线程与高并发](./source/Part04/4.2-多线程与高并发.md)
   - [4.3 物品栈与物品栏](./source/Part04/4.3-物品栈与物品栏.md)
   - [4.4 ItemMeta 与其子类](./source/Part04/4.4-ItemMeta与其子类.md)
-  - [4.5 地图绘制器](./source/Part04/4.5-地图绘制器.md)
-  - [4.6 初识 NMS](./source/Part04/4.6-初识NMS.md)
-  - [4.7 物品 NBT 进阶](./source/Part04/4.7-物品NBT进阶.md)
+  - [4.5 物品 NBT 进阶](./source/Part04/4.5-物品NBT进阶.md)
 
 - **第五部分. 数据存储**
   - [5.1 Json](./source/Part05/5.1-Json.md)

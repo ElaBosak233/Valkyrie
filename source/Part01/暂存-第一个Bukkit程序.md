@@ -81,7 +81,7 @@ main: Group ID + 项目名小写 + .Main # 这里规定的是插件的主类
 api-version: 1.13 # 规定插件依赖的 Bukkit API 版本
 authors: [Valkyrie]
 description: xxxxx # 规定对插件的描述
-website: https://valkyrie.elabosak.cn # 规定插件的网页
+website: https://valkyrie.ela.ac.cn # 规定插件的网页
 ```
 
 其实，读到这里，第一个 Bukkit 程序就完成了，只不过，别人的 Bukkit 插件都是以 `.jar` 文件形式拖入服务器的 **plugins** 文件夹的，我们的都是一大堆文件夹和寥寥无几的文件，该如何制作出一个 `.jar` 文件呢？既然是 21 世纪，总不可能还用命令行来执行复杂的脚本吧？请你阅读下一节 **[初识 IntelliJ IDEA](/source/part01/1.4-初识IntelliJIDEA.md)**

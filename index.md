@@ -20,7 +20,7 @@
 
 ?> **Question.** 我需要 **准备什么**
 
-详见 **[初识 IntelliJ IDEA](https://valkyrie.elabosak.cn/#/source/Part01/1.3-初识IntelliJIDEA)**
+详见 **[初识 IntelliJ IDEA](https://valkyrie.ela.ac.cn/#/source/Part01/1.3-初识IntelliJIDEA)**
 
 ?> **Question.** 教程基于什么 **环境**
 

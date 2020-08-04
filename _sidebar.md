@@ -44,5 +44,5 @@
   - [附录 2 中文 Plugin.yml](./source/附录/附录2-中文plugin.yml.md)
   - [附录 3 版本迁移](./source/附录/附录3-版本迁移.md)
 
-<center><a href="https://elabosak.cn" target="_blank"><img src="https://i.loli.net/2020/07/26/faS83ywjAuI2cGq.png"></a></center>
+<center><a href="https://ela.ac.cn" target="_blank"><img src="https://i.loli.net/2020/07/26/faS83ywjAuI2cGq.png"></a></center>
 <center><a href="https://github.com/ElaBosak233" target="_blank"><img src="https://img.shields.io/badge/Github-%40ElaBosak233-success?style=for-the-badge&logo=Github"></a></center>

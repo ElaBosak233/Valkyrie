@@ -32,6 +32,6 @@
 
 ## 声明
 
-**Valkyrie** 的唯一仓库位于 **[https://github.com/ElaBosak233/Valkyrie](https://github.com/ElaBosak233/Valkyrie)**，并以 **MIT License** 进行开源，请按照 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License** 的规则对文章进行修改、转载等操作，注意，文章转载请附上源地址！另外，本文未经特殊说明的所有代码、教学内容 等皆为 **原创**，不存在抄袭行为！特别注明，**Valkyrie** 与 **MOJANG STUDIO**、**Bukkit.org**、**SpigotMC** 皆无关系，为 **独立公益** 运营机制，如有关于 **Valkyrie** 本身的问题，请联系 **[@ElaBosak233](https://github.com/ElaBosak233)**
+**Valkyrie** 的唯一仓库位于 **[https://github.com/ElaBosak233/Valkyrie](https://github.com/ElaBosak233/Valkyrie)**，并以 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License** 进行开源，请按照 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License** 的规则对文章进行修改、转载等操作，注意，文章转载请附上源地址！另外，本文未经特殊说明的所有代码、教学内容 等皆为 **原创**，不存在抄袭行为！特别注明，**Valkyrie** 与 **MOJANG STUDIO**、**Bukkit.org**、**SpigotMC** 皆无关系，为 **独立公益** 运营机制，如有关于 **Valkyrie** 本身的问题，请联系 **[@ElaBosak233](https://github.com/ElaBosak233)**
 
 </br><center><a href="http://github.com/ElaBosak233" target="_blank"><img src="https://i.loli.net/2020/07/31/z87UwRYjGuNckXI.png" height=35% width=35%></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://afdian.net/@ElaBosak233" target="_blank"><img src="https://i.loli.net/2020/07/31/Loigbd9nEjBlKMm.png" height=35% width=35%></a></center>

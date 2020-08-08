@@ -29,7 +29,7 @@
   - [4.5 物品 NBT 进阶](./source/Part04/4.5-物品NBT进阶.md)
 
 - **第五部分. 数据存储**
-  - [5.1 Json](./source/Part05/5.1-Json.md)
+  - [5.1 JSON](./source/Part05/5.1-JSON.md)
   - [5.2 SQLite](./source/Part05/5.2-SQLite.md)
   - [5.3 MySQL](./source/Part05/5.3-MySQL.md)
   - [5.4 储存方式的选择](./source/Part05/5.4-储存方式的选择.md)

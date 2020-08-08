@@ -52,7 +52,7 @@ gradlew.bat (Gradle 运行脚本，适用于 Windows)
 
 ## 上手 Main.java
 
-```java
+```Java
 package ... // 这里写的是你的 Group ID + 项目名的小写
 
 import ... // 这里是导入外部的依赖，经常用到，但是后面学习了 IntelliJ IDEA 后，导入的事情，几乎不用管

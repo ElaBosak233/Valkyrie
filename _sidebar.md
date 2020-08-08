@@ -23,7 +23,7 @@
 - **第四部分. 插件进阶**
   - [4.0 进阶部分前言](./source/Part04/4.0-进阶部分前言.md)
   - [4.1 获取主类实例](./source/Part04/4.1-获取主类实例.md)
-  - [4.2 多线程与高并发](./source/Part04/4.2-多线程与高并发.md)
+  - [4.2 多线程与并发](./source/Part04/4.2-多线程与并发.md)
   - [4.3 物品栈与物品栏](./source/Part04/4.3-物品栈与物品栏.md)
   - [4.4 ItemMeta 与其子类](./source/Part04/4.4-ItemMeta与其子类.md)
   - [4.5 物品 NBT 进阶](./source/Part04/4.5-物品NBT进阶.md)

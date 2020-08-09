@@ -266,7 +266,7 @@ permissions:
             test.bar: false
 ```
 
-## Example
+## 示例文件
 
 ```yaml
 main: org.spigotmc.annotationtest.Test

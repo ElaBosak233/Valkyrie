@@ -4,6 +4,7 @@
   - [1.3 初识 IntelliJ IDEA](./source/Part01/1.3-初识IntelliJIDEA.md)
 
 - **第二部分. 基础知识**
+  - [2.0 基础部分前言](./source/Part02/2.0-基础部分前言.md)
   - [2.1 初识 Java](./source/Part02/2.1-初识Java.md)
   - [2.2 Java 代码规约](./source/Part02/2.2-Java代码规约.md)
   - [2.3 数据类型与数据结构](./source/Part02/2.3-数据类型与数据结构.md)

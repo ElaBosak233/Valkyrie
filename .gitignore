@@ -1,1 +1,19 @@
+# npm
+package-lock.json
 node_modules
+
+# vscode
+.vscode
+
+# vuepress
+docs/.vuepress/dist
+
+# mac
+.DS_Store
+
+# github actions
+.github/workflows
+
+# deploy key
+valkyrie-deployKey
+valkyrie-deployKey.pub

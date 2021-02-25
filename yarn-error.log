@@ -1,0 +1,52 @@
+Arguments: 
+  D:\Program Files\nodejs\node.exe C:\Users\ElaBosak\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js
+
+PATH: 
+  C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\Program Files\Python38\Scripts\;C:\Program Files\Python38\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\Program Files\nodejs\;C:\Program Files (x86)\ZeroTier\One\;D:\src\flutter\bin;C:\Program Files\dotnet\;D:\Program Files (x86)\php\7.4.9;C:\ProgramData\ComposerSetup\bin;C:\Python27;C:\Python27\Scripts;C:\Program Files\Redis\;F:\MavenBuildTool\apache-maven-3.6.3\bin;F:\GradleBuildTool\gradle-6.7\bin;C:\Program Files\gettext-iconv\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ElaBosak\AppData\Local\Microsoft\WindowsApps;C:\Users\ElaBosak\AppData\Local\GitHubDesktop\bin;C:\Program Files\Bandizip\;D:\Users\ElaBosak\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ElaBosak\AppData\Roaming\npm;D:\src\flutter\bin;C:\Users\ElaBosak\.dotnet\tools;C:\Users\ElaBosak\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\GitHub CLI\;D:\Program Files (x86)\GitHub CLI\;c:\users\elabosak\appdata\roaming\python\python38\Scripts;
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  12.18.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, copyfile 'C:\Users\ElaBosak\AppData\Local\Yarn\Cache\v6\npm-ms-2.1.2-d09d1f357b443f493382a8eb3ccd183872ae6009-integrity\node_modules\ms\index.js' -> 'F:\GitHub\Valkyrie\node_modules\@babel\traverse\node_modules\ms\index.js'
+
+npm manifest: 
+  {
+    "name": "valkyrie",
+    "version": "2.0.0",
+    "scripts": {
+      "dev": "vuepress dev docs",
+      "build": "vuepress build docs",
+      "editFm": "node utils/editFrontmatter.js"
+    },
+    "license": "MIT",
+    "devDependencies": {
+      "dayjs": "^1.9.7",
+      "inquirer": "^7.1.0",
+      "json2yaml": "^1.1.0",
+      "vuepress": "1.8.0",
+      "vuepress-plugin-baidu-autopush": "^1.0.1",
+      "vuepress-plugin-baidu-tongji": "^1.0.1",
+      "vuepress-plugin-demo-block": "^0.7.2",
+      "vuepress-plugin-one-click-copy": "^1.0.2",
+      "vuepress-plugin-thirdparty-search": "^1.0.2",
+      "vuepress-plugin-zooming": "^1.1.7",
+      "vuepress-theme-vdoing": "^1.8.1",
+      "yamljs": "^0.3.0"
+    },
+    "dependencies": {
+      "vuepress-plugin-comment": "^0.7.3"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

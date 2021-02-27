@@ -60,11 +60,15 @@ editLink: false # 不显示编辑按钮
 :::
 很简单，我们会在学习写插件的同时学习到 Java 基础，或许这有点考验读者的 *找规律* 能力，但我可以保证，这不难
 
+::: note Valkyrie v1 和 v2 的区别是什么
+:::
+Valkyrie 第二版相比第一版有重大的改进，Ela 去除了专门讲解 Java 基础的模块，学习编写插件之前，看到 Java 基础肯定是头痛的，正因如此，通过 Valkyrie 学习的时候，Ela 更能将基础融入进更简单更清楚的插件源码里面；以及，Valkyrie v2 是从头到尾重新写成的作品，第一次发布 Valkyrie 的时候，论坛上面对此是议论纷纷（大多都是因为内容问题的指责），
+
 ## 问题反馈
 
 虽然说是第二版，但未免也还存在些错误对吧，如果你发现了 Valkyrie 的错误，请务必反馈到 [**issues**](https://github.com/ElaBosak233/Valkyrie)，Ela 表示由衷的感谢！当然，如果你有什么疑问，也可以提交到 issues 哦！
 
-## 版权声明
+## 版权
 
 Valkyrie 中所有的图片若未进行特殊标注，则都来源于互联网或者由 Ela 自主绘制，Valkyrie 中的所有未经特殊标注的代码、文本皆为原创，通常，非原创的文本、代码分别会这样标注：
 
@@ -79,6 +83,6 @@ public static void main(String[] args) {
 }
 ```
 
-## 开源声明
+## 开源
 
 Valkyrie 坚持采用 `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License（以下简称 CC-BY-NC-SA 4.0）` 许可证进行开源，请按照 CC-BY-NC-SA 4.0 的规则对文章进行修改、转载等操作，注意，文章转载请附上源地址！另外，本文未经特殊说明的所有代码、教学内容 等皆为 **原创**，不存在抄袭行为！特别注明，Valkyrie 与 MOJANG STUDIO、Bukkit.org、SpigotMC、Jetbrains、Oracle 皆无关系，为 **独立&公益** 运营机制，如有关于 Valkyrie 本身的问题，请联系 [**@ElaBosak233**](https://github.com/ElaBosak233)

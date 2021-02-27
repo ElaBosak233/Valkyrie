@@ -1,8 +1,9 @@
 <template>
   <div class="theme-container">
     <div class="theme-vdoing-content">
-      <span>404 NOT FOUND</span>
+      <span>NullPointerException</span>
       <blockquote>{{ getMsg() }}</blockquote>
+      <img src="" />
       <router-link to="/">返回首页</router-link>
     </div>
   </div>
@@ -30,6 +31,6 @@ export default {
   margin 3rem auto
   padding 1.5rem
   span
-    font-size 6rem
+    font-size 5rem
     color $accentColor
 </style>

@@ -11,9 +11,6 @@ docs/.vuepress/dist
 # mac
 .DS_Store
 
-# github actions
-.github/workflows
-
 # deploy key
 valkyrie-deployKey
 valkyrie-deployKey.pub

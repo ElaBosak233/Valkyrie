@@ -1,0 +1,53 @@
+name: Valkyrie Deploy CI
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: '版本号'
+        required: true
+      executor:
+        description: '执行者'
+        required: true
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [14.x]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Cache node modules
+        uses: actions/cache@v1
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.OS }}-build-${{ env.cache-name }}-
+            ${{ runner.OS }}-build-
+            ${{ runner.OS }}-
+      - name: Install Packages
+        run: npm install
+      - name: Build page
+        run: npm run build
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: Valkyrie ${{ github.event.inputs.version }} build by ${{ github.event.inputs.executor }}
+          path: ./docs/.vuepress/dist/*
+      - name: Deploy to Github Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.VALKYRIE_DEPLOY_PRI }}
+          publish_dir: ./docs/.vuepress/dist
